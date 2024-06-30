@@ -86,25 +86,25 @@ function Header() {
           <Link href='#' ><VscAccount /></Link>
           <Link href='#' ><CiHeart /></Link>
           <Link href='#' ><BsHandbag /></Link>
-          <div className="new  absolute opacity-0 top-[13px] mr-[110px] h-[25px] rounded-[10px] w-[70px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:top-[23px]">
+          <div className="new z-10  absolute opacity-0 top-[13px] mr-[110px] h-[25px] rounded-[10px] w-[70px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:top-[23px]">
             <BsTriangleFill className="text-[#222] ml-[30px] mt-[-10px] " />
            <div className="absolute top-[-2px] left-[15px]"> <Heading level="11">Search</Heading></div>
             <RiRectangleFill  className="text-black opacity-0 cursor-pointer bg-red-900 mb-[100px] w-[50px] rotate-90 top-[0] absolute right-[10px]"/>
 
           </div>
-          <div className="new  absolute opacity-0 top-[13px] mr-[40px] h-[25px] rounded-[10px] w-[70px] bg-[#222] z-[1000000] hover:opacity-[100%]  hover:top-[23px]">
+          <div className="new z-10  absolute opacity-0 top-[13px] mr-[40px] h-[25px] rounded-[10px] w-[70px] bg-[#222] z-[1000000] hover:opacity-[100%]  hover:top-[23px]">
             <BsTriangleFill className="text-[#222] ml-[30px] mt-[-10px] " />
            <div className="absolute top-[-2px] left-[15px]"> <Heading level="11">Account</Heading></div>
             <RiRectangleFill  className="text-black opacity-0 cursor-pointer bg-red-900 mb-[100px] w-[50px] rotate-90 top-[0] absolute right-[10px]"/>
 
           </div>
-          <div className="new  absolute opacity-0 top-[13px] mr-[-30px] h-[25px] rounded-[10px] w-[70px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:top-[23px]">
+          <div className="new  z-10 absolute opacity-0 top-[13px] mr-[-30px] h-[25px] rounded-[10px] w-[70px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:top-[23px]">
             <BsTriangleFill className="text-[#222] ml-[30px] mt-[-10px] " />
            <div className="absolute top-[-2px] left-[15px]"> <Heading level="11">Wishlist</Heading></div>
             <RiRectangleFill  className="text-black opacity-0 cursor-pointer bg-red-900 mb-[100px] w-[50px] rotate-90 top-[0] absolute right-[10px]"/>
 
           </div>
-          <div className="new  absolute opacity-0 top-[13px] mr-[-100px] h-[25px] rounded-[10px] w-[50px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:top-[23px]">
+          <div className="new z-10  absolute opacity-0 top-[13px] mr-[-100px] h-[25px] rounded-[10px] w-[50px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:top-[23px]">
             <BsTriangleFill className="text-[#222] ml-[20px] mt-[-10px] " />
            <div className="absolute top-[-2px] left-[10px]"> <Heading level="11">Cart</Heading></div>
             <RiRectangleFill  className="text-black opacity-0 cursor-pointer bg-red-900 mb-[100px] w-[50px] rotate-90 top-[0] absolute right-[-5px]"/>

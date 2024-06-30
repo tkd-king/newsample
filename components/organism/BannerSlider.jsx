@@ -51,13 +51,13 @@ function BannerSlider() {
           </div>
           <div className="new  absolute opacity-0 top-[38px] mr-[100px] h-[25px] rounded-[10px] w-[120px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:mr-[170px]">
             <BsTriangleFill className="text-[#222] ml-[115px] mt-[4px] rotate-90" />
-           <div className="absolute top-[-2px] left-[10px]"> <Heading level="11">Exploare FoxEcom Affiliate Program</Heading></div>
+           <div className="absolute top-[-2px] left-[10px]"> <Heading level="11">Exploare FoxEcom</Heading></div>
             <RiRectangleFill  className="text-black opacity-0 cursor-pointer bg-red-900 mb-[100px] w-[100px] top-[0] absolute right-[-45px]"/>
 
           </div>
           <div className="new  absolute opacity-0 top-[76px] mr-[100px] h-[25px] rounded-[10px] w-[90px] bg-[#222] z-[1000000] hover:opacity-[100%] hover:mr-[170px]">
             <BsTriangleFill className="text-[#222] ml-[85px] mt-[4px] rotate-90" />
-           <div className="absolute top-[-2px] left-[10px]"> <Heading level="11">Perchase Minimog</Heading></div>
+           <div className="absolute top-[-2px] left-[10px]"> <Heading level="11">Perchase</Heading></div>
             <RiRectangleFill  className="text-black opacity-0 cursor-pointer bg-red-900 mb-[100px] w-[100px] top-[0] absolute right-[-45px]"/>
 
           </div>
